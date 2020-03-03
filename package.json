@@ -1,0 +1,18 @@
+{
+  "name": "restfullapi",
+  "version": "1.0.0",
+  "description": "my api",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "roni roy\u001b[D\u001b[R\u001b[D\u001b[D\u001b[D\u001b[D\u001b[R",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.9.3",
+    "nodemon": "^2.0.2"
+  }
+}
